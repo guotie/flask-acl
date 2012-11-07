@@ -1,0 +1,30 @@
+Metadata-Version: 1.0
+Name: tipfy.ext.acl
+Version: 0.6
+Summary: Access Control extension for flask
+Home-page: https://github.com/guotie/flask-acl
+Author: guotie
+Author-email: guotie.9@gmail.com
+License: BSD
+Description: 
+        flask.ext.acl
+        =============
+        
+        This extension provides an Access Control implementation for flask
+        
+        Links
+        -----
+        * `Documentation <https://github.com/guotie/flask-acl>`_
+        * `Source Code Repository <https://github.com/guotie/flask-acl>`_
+        * `Issue Tracker <https://github.com/guotie/flask-acl>`_
+
+        
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

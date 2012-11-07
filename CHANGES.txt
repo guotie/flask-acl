@@ -1,0 +1,3 @@
+Version 0.1 - Oct 17, 2012
+============================
+- Initial version, moved from tipfy.ext.auth.
